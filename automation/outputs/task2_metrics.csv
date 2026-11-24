@@ -1,0 +1,21 @@
+Project,Metric,Value
+Supermarket Sales,Sales records,"2,000"
+Supermarket Sales,Total revenue,"INR 3,102,821.60"
+Supermarket Sales,Units sold,"5,926"
+Supermarket Sales,Average line sale,"INR 1,551.41"
+Student Performance,Students,"1,000"
+Student Performance,Pass rate,81.90%
+Student Performance,Average score,65.34
+Student Performance,Average attendance,75.49%
+Weather Analysis,Observations,"2,193"
+Weather Analysis,Average temperature,27.25 C
+Weather Analysis,Total rainfall,"12,457.92 mm"
+Weather Analysis,Average humidity,55.01%
+Healthcare Analysis,Hospital visits,"1,400"
+Healthcare Analysis,Average waiting time,66.60 min
+Healthcare Analysis,Average length of stay,4.38 days
+Healthcare Analysis,Average satisfaction,4.19/5
+Financial Market,Fictional stocks,3
+Financial Market,Price observations,"1,569"
+Financial Market,Mean daily return,0.003%
+Financial Market,Mean annual volatility,20.73%
