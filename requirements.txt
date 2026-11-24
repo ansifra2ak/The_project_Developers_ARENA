@@ -7,3 +7,11 @@ reportlab
 jupyter
 ipykernel
 nbformat
+
+streamlit
+
+plotly
+
+python-pptx
+
+Pillow
